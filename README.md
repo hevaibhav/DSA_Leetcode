@@ -16,7 +16,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 - [x] #1480 — Running Sum of 1d Array
 - [x] #1672 — Richest Customer Wealth
-- [ ] #1470 — Shuffle the Array
+- [x] #1470 — Shuffle the Array
 - [ ] #1431 — Kids With the Greatest Number of Candies
 - [ ] #1365 — How Many Numbers Are Smaller Than the Current Number
 - [ ] #1528 — Shuffle String
