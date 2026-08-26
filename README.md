@@ -10,7 +10,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 ## 📊 Progress
 
-**Problems Solved:** 2 / 50
+**Problems Solved:** 6/ 50
 
 ### 🟢 Stage 1 — Very Easy
 
@@ -18,7 +18,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [x] #1672 — Richest Customer Wealth
 - [x] #1470 — Shuffle the Array
 - [x] #1431 — Kids With the Greatest Number of Candies
-- [ ] #1365 — How Many Numbers Are Smaller Than the Current Number
+- [x] #1365 — How Many Numbers Are Smaller Than the Current Number
 - [ ] #1528 — Shuffle String
 - [ ] #1108 — Defanging an IP Address
 - [ ] #1342 — Number of Steps to Reduce a Number to Zero
