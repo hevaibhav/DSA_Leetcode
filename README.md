@@ -17,7 +17,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [x] #1480 — Running Sum of 1d Array
 - [x] #1672 — Richest Customer Wealth
 - [x] #1470 — Shuffle the Array
-- [ ] #1431 — Kids With the Greatest Number of Candies
+- [x] #1431 — Kids With the Greatest Number of Candies
 - [ ] #1365 — How Many Numbers Are Smaller Than the Current Number
 - [ ] #1528 — Shuffle String
 - [ ] #1108 — Defanging an IP Address
@@ -27,7 +27,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 ### 🟢 Stage 2 — Easy Fundamentals
 
-- [ ] #1 — Two Sum
+- [x] #1 — Two Sum
 - [ ] #217 — Contains Duplicate
 - [ ] #242 — Valid Anagram
 - [ ] #125 — Valid Palindrome
