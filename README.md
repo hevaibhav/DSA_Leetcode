@@ -27,7 +27,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 ### 🟢 Stage 2 — Easy Fundamentals
 
-- [] #1 — Two Sum
+- [x] #1 — Two Sum
 - [ ] #217 — Contains Duplicate
 - [ ] #242 — Valid Anagram
 - [ ] #125 — Valid Palindrome
