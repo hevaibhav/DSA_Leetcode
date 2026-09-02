@@ -81,6 +81,22 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 ## 📚 Pattern I'm Learning
 
+1. Arrays
+2. Hashin      ↓
+3. Two Pointers
+4. Sliding Window
+5. Binary Search
+6. Stack & Queue
+7. Linked List
+8. Recursion & Backtracking
+9. Trees / BST
+10. Heap / Priority Queue
+11. Greedy
+12. Graphs
+13. Dynamic Programming
+14. Advanced DSA
+
+
 ### Hashing
 
 ## 📝 Questions
@@ -95,3 +111,6 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [ ] #219 — Contains Duplicate II
 - [ ] #49 — Group Anagrams
 - [ ] #347 — Top K Frequent Elements
+
+
+
