@@ -10,8 +10,6 @@ I will solve these problems in the order below, progressing from **Very Easy →
 
 ## 📊 Progress
 
-**Problems Solved:** 9/ 50
-
 ### 🟢 Stage 1 — Very Easy
 
 - [x] #1480 — Running Sum of 1d Array
