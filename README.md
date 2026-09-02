@@ -76,3 +76,22 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [ ] #322 — Coin Change
 - [ ] #300 — Longest Increasing Subsequence
 - [ ] #1143 — Longest Common Subsequence
+
+
+
+## 📚 Pattern I'm Learning
+
+### Hashing
+
+## 📝 Questions
+
+- [x] #217 — Contains Duplicate
+- [ ] #242 — Valid Anagram
+- [ ] #1 — Two Sum
+- [ ] #349 — Intersection of Two Arrays
+- [ ] #202 — Happy Number
+- [ ] #205 — Isomorphic Strings
+- [ ] #290 — Word Pattern
+- [ ] #219 — Contains Duplicate II
+- [ ] #49 — Group Anagrams
+- [ ] #347 — Top K Frequent Elements
