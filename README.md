@@ -100,7 +100,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 ## 📝 Questions
 
 - [x] #217 — Contains Duplicate
-- [ ] #242 — Valid Anagram
+- [x] #242 — Valid Anagram
 - [ ] #1 — Two Sum
 - [ ] #349 — Intersection of Two Arrays
 - [ ] #202 — Happy Number
