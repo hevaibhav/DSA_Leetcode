@@ -102,7 +102,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [x] #217 — Contains Duplicate
 - [x] #242 — Valid Anagram
 - [ ] #1 — Two Sum
-- [ ] #349 — Intersection of Two Arrays
+- [x] #349 — Intersection of Two Arrays
 - [ ] #202 — Happy Number
 - [ ] #205 — Isomorphic Strings
 - [ ] #290 — Word Pattern
