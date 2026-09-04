@@ -20,7 +20,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [x] #1528 — Shuffle String
 - [x] #1108 — Defanging an IP Address
 - [x] #1342 — Number of Steps to Reduce a Number to Zero
-- [ ] #1295 — Find Numbers with Even Number of Digits
+- [x] #1295 — Find Numbers with Even Number of Digits
 - [ ] #771 — Jewels and Stones
 
 ### 🟢 Stage 2 — Easy Fundamentals
