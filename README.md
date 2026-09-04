@@ -21,7 +21,7 @@ I will solve these problems in the order below, progressing from **Very Easy →
 - [x] #1108 — Defanging an IP Address
 - [x] #1342 — Number of Steps to Reduce a Number to Zero
 - [x] #1295 — Find Numbers with Even Number of Digits
-- [ ] #771 — Jewels and Stones
+- [x] #771 — Jewels and Stones
 
 ### 🟢 Stage 2 — Easy Fundamentals
 
